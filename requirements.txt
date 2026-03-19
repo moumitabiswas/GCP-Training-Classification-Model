@@ -1,0 +1,9 @@
+pacy-langdetect
+protobuf==5.28.3
+keybert
+openai
+langchain_openai
+scikit-learn tensorflow
+tf-keras
+keybert
+spacy
